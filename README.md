@@ -15,5 +15,3 @@ A KDE Service Menu for coloring the folders so fast, also has the ability to col
  
  
  [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
-### Custom Icon
- ![Custom Icon](screenshot2.png)
