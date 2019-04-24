@@ -2,7 +2,7 @@ Dolphin Folder Color
 ====================
 version 2.0
 
-Fork for installation on Manjaro.
+Fork for installation on **Manjaro**.
 
 A KDE Service Menu for coloring the folders so fast, also has the ability to color a selected set of folders.
 
