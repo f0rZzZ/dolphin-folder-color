@@ -1,11 +1,13 @@
-Dolphin Folder Color
+Dolphin Folder Color 
 ====================
 version 2.0
+
+Fork for installation on Manjaro.
 
 A KDE Service Menu for coloring the folders so fast, also has the ability to color a selected set of folders.
 
 ## Installation
-You just need to run the script. **install.sh** with a click and restart dolphin.
+  Just running the script by clicking on **install.sh** on it, and restart dolphin. Before running the script, make sure that *kde-cli-tools* is installed
 
 ## Screenshots
 ### Service Menu
